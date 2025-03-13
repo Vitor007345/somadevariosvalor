@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741865392 source:c:\users\1589988\desktop\bagulhos em c\somadevarios\somadeinfinitosvalores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
